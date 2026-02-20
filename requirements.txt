@@ -1,0 +1,5 @@
+mne
+joblib
+pandas
+neo
+mne-bids
