@@ -1,0 +1,11 @@
+{
+  "iEEGCoordinateSystem": "fsaverage",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "https://surfer.nmr.mgh.harvard.edu/",
+  "iEEGCoordinateProcessingDescription": "none",
+  "iEEGCoordinateProcessingReference": "https://github.com/HumanNeuronLab/voxeloc",
+  "IntendedFor": [
+    "S:\\HumanNeuronLab\\DATARAW\\BIDS_elec\\SEEG-HUG\\sub-3390\\anat\\sub-3390_postInPre.nii",
+    "S:\\HumanNeuronLab\\DATARAW\\BIDS_elec\\SEEG-HUG\\sub-3390\\anat\\sub-3390_brainmask.nii"
+  ]
+}
