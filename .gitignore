@@ -1,0 +1,5 @@
+# Ignore figure folders
+figures/
+
+# Ignore video folders
+videos/
