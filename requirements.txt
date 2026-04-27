@@ -3,3 +3,12 @@ joblib
 pandas
 neo
 mne-bids
+os
+numpy 
+matplotlib
+seaborn
+imageio
+pathlib
+re
+datetime
+neuralset
